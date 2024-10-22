@@ -30,7 +30,6 @@
 <a href="" target="_blank"><img style="margin: 10px" src="https://www.cybher.org/wp-content/uploads/2023/08/capture-the-flag.jpg" alt="CTF player" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="Linux" height="50" />
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://delta-dev-software.fr/wp-content/uploads/2024/02/Gnu-bash-logo.svg_.png" alt="Linux" height="50" />
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://delta-dev-software.fr/wp-content/uploads/2024/02/Gnu-bash-logo.svg_.png" alt="Linux" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -69,37 +68,6 @@
   
 
 <br/>  
+ 
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=oussamafannouch&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=iludwa7qfir8jjbza37jp84j0&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=oussamafannouch&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
